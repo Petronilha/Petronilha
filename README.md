@@ -9,5 +9,5 @@ Fullstack Developer
 <br>
 
 - 👨🏻‍💻 I'm learning more about ReactJs and NodeJs to improve my skills
-- 🤔 I'm trying to help more people understand HTML, CSS and Javascript
+- 🤔 I'm trying to help more people understand HTML, CSS, Javascript and Python
 - 📫 How to reach me: [Daniel Petronilha](https://petronilha.github.io/DevLinks)
