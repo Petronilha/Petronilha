@@ -15,3 +15,5 @@
 
 
 <br>
+
+<a href="https://app.rocketseat.com.br/me/danielpetronilha"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=danielpetronilha&type=card" width="280" alt="Daniel Petronilha's Rocket ID"/></a>
