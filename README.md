@@ -1,7 +1,7 @@
 
   ### Hi, I'm Daniel Petronilha 👋
   ---
-  Fullstack Developer
+  Front end Developer
 
   [![Instagram Badge](https://img.shields.io/badge/-@danielpetronilha-7300FD?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/danielpetronilha/)](https://www.instagram.com/danielpetronilha) 
   [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Petronilha-7300FD?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielpetronilha/)](https://www.linkedin.com/in/danielpetronilha) 
